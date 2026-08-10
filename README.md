@@ -8,7 +8,7 @@ Projeto de prática do fluxo de trabalho com Git e GitHub: criação de branch, 
 
 ## Como usar
 
-No Git Bash: git clone https://github.com/SEU-USUARIO/atividade-github.git
+No Git Bash: git clone https://github.com/vangobango/atividade-github.git
 
 cd atividade-github
 
